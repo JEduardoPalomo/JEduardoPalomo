@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Palomo</h1>
-align="justified">Data Analyst with a passion for solving probability and statistics problems using advanced tools like machine learning and programming languages. I have a strong background in mathematics and computer science, which I leverage to develop strategic business insights.
+Data Analyst with a passion for solving probability and statistics problems using advanced tools like machine learning and programming languages. I have a strong background in mathematics and computer science, which I leverage to develop strategic business insights.
 
 
 <h3 align="left">Techincal skills:</h3>
