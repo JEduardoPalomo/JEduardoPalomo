@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Palomo</h1>
                       
 <div id="header" align="center">
-  <img decoding="async" src="Portada Data Analyst.jpg" width="800"/>
+  <img decoding="async" src="[Portada Data Analyst.jpg](https://github.com/JEduardoPalomo/numpy/blob/main/Portada%20Data%20Analyst.jpg)" width="800"/>
 </div>
 
 <div id="header" align="left">
