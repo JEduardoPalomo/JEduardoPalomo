@@ -31,10 +31,4 @@ Data Analyst with a passion for solving probability and statistics problems usin
 
 </div>
 
----
-### :fire: MY STATS:
-<div id="header" align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JEduardoPalomo&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</div>
